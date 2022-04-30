@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 <br>
-![](https://komarev.com/ghpvc/?username=J05H752)
+![](https://komarev.com/ghpvc/?username=j05h752)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=j05h752&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
